@@ -2,7 +2,7 @@
 
 ### 必须放在开头的声明
 
-这个项目只是一个对于powershell的恶搞，并不是对于powershell的侵权，只是觉得好玩。如果你要使用powershell，请前往github，microsoft的<a href="https://github.com/PowerShell/PowerShell">PowerShell</a>！
+这个项目只是一个对于powershell的恶搞，并不是对于powershell的侵权，只是觉得好玩,且本项目并没有采用任何powershell的源代码，纯粹自行编写。如果你要使用powershell，请前往github，microsoft的<a href="https://github.com/PowerShell/PowerShell">PowerShell</a>！
 
 ### 这个项目是怎么来的？
 
